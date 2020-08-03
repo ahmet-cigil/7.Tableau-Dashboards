@@ -1,13 +1,14 @@
 ## Tableau Capstone Project
 
 To view this Tableau project and my other projects,  please visit my Tableau Public page: [Tableau Public](https://public.tableau.com/profile/ahmet.cigil#!/)
+
 Due to the size of the files, project files have not been uploaded here.
 
 # Installation / Software Needed
 - Tableau 2020.02.*
 
 # Project Motivation
-This project is part of my Business Analyst Nanodegree on Udacity to showcase my Tableau skills. 
+This project is part of my Business Analyst Nanodegree on Udacity to showcase my Tableau skills: 
 [Udacity Business Analyst Nanodegree](https://www.udacity.com/course/business-analytics-nanodegree--nd098) 
 
 The project is sourced from Kaggle: [Flight Delays Dataset](https://www.kaggle.com/usdot/flight-delays)
