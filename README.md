@@ -1,8 +1,9 @@
-# Tableau Projects
+## Tableau Capstone Project
 
 [Udacity Business Analyst Nanodegree](https://www.udacity.com/course/business-analytics-nanodegree--nd098) 
 
-I recommend to check my Tableau Public page to review the project: [Tableau Public](https://public.tableau.com/profile/ahmet.cigil#!/)
+To view this Tableau project and my other projects,  please visit my Tableau Public page: [Tableau Public](https://public.tableau.com/profile/ahmet.cigil#!/)
+Due to the size of the files, project files have not been uploaded here.
 
 # Installation / Software Needed
 - Tableau 2020.02.*
